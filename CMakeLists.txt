@@ -8,6 +8,7 @@ include_directories(
     SYSTEM
     ${PYTHON_INCLUDE_DIR}
     ${GTK_DIR}/include
+    ${GTK_DIR}/include/cairo
     ${GTK_DIR}/include/glib-2.0
     ${GTK_DIR}/lib/glib-2.0/include
     ${GTK_DIR}/include/pygtk-2.0
